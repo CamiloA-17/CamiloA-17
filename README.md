@@ -34,7 +34,7 @@ Always ready for new challenges and collaborations!
 
 ## 📊 GitHub Stats
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<img align="right" alt="Coding" width="280" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=camiloa-17&theme=dark)
 
